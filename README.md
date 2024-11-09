@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Robotitusx!
+# 👋 ¡Hola, soy Miguel Angel!
 
 ## Sobre mí
 Desarrollador con experiencia en varias tecnologías, siempre dispuesto a aprender y a enfrentar nuevos desafíos. Aquí te cuento un poco sobre las herramientas que manejo:
@@ -18,11 +18,6 @@ Desarrollador con experiencia en varias tecnologías, siempre dispuesto a aprend
   - CSS
   - JavaScript
   - React
-
-## Proyectos Destacados
-- **[SOFTWARE TEAM PROJECT](https://github.com/Robotitusx/Software-team-project#)**: Mejor equipo de software.
-- **[SUKUNA WEB PAGE PROJECT](https://github.com/Robotitusx/Sukuna-web-page#)**: Pagina web de JJK.
-
 
 ## Contacto
 - **Email**: [gabriellimiguel143@gmail.com](gabriellimiguel143@gmail.com)
