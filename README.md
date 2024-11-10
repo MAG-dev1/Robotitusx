@@ -21,7 +21,7 @@ Desarrollador con experiencia en varias tecnologías, siempre dispuesto a aprend
 
 ## Contacto
 - **Email**: [gabriellimiguel143@gmail.com](gabriellimiguel143@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/tuusuario](https://www.linkedin.com/in/miguel-angel-gabrielli-103431262/)]
+- **LinkedIn**: [[linkedin.com/in/MiguelAngel](https://www.linkedin.com/in/miguel-angel-gabrielli-103431262/)]
 
 
 ---
